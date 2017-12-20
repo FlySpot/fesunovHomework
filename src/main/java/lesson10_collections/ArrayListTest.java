@@ -4,7 +4,6 @@ package lesson10_collections;
  * Created by FlySpot on 14.12.2017.
  */
 import java.util.*;
-import java.io.*;
 
 public class ArrayListTest {
     ArrayList lst = new ArrayList();
